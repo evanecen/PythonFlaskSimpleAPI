@@ -30,11 +30,10 @@ shell script로 되어있는 develop, production 환경별 파일을 실행하�
 $ sh run_dev
 ```
 ![](https://postfiles.pstatic.net/MjAxODExMjJfNTYg/MDAxNTQyODY0OTcwNzI5.8Td78IOVQxtdYLaNJJoicYHjCMwB7wFrrLVWgSjomuIg.Qeg7lTvKKwP63qW2YOj-E-EHsnQl0DbIZ-8-ioYov2Eg.PNG.evanecen/image_8436093021542864930128.png?type=w773)
-\
+
 
 
 ### Add API
 data폴더에 필요한 api이름의 json파일을 넣으면 같은 이름으로 접근할 수 있습니다.
 
 <img src="https://user-images.githubusercontent.com/38330816/48916456-b9ebb380-eec5-11e8-9992-2c0739dfadb2.png" width="400">
-
