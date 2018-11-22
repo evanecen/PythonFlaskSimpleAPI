@@ -1,0 +1,18 @@
+{
+	"todos": [{
+		"id": 1,
+		"value": "Cleaning Utensils"
+	}, {
+		"id": 2,
+		"value": "Clean Car"
+	}, {
+		"id": 3,
+		"value": "Pay Credit Card"
+	}, {
+		"id": 4,
+		"value": "Book Movie Tickets"
+	}, {
+		"id": 5,
+		"value": "Buy Chocolates"
+	}]
+}
