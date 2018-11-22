@@ -35,4 +35,4 @@ $ sh run_dev
 ### /Data
 Data폴더에 필요한 api이름의 json파일을 넣으면 같은 이름으로 접근할 수 있습니다.
 
-<img src=“https://postfiles.pstatic.net/MjAxODExMjJfMjU2/MDAxNTQyODY2Nzk1MzA0.WZb92uB8FFiBzN3Gws1es6DBhNtt15JXG81y5uYigO0g.LDkFj3U8SsJPgooxUHzOrUgW2t6-qXygupEwuL_PSFsg.PNG.evanecen/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2018-11-22_%EC%98%A4%ED%9B%84_3.06.13.png?type=w773” width=“400”>
+<img src=“https://user-images.githubusercontent.com/38330816/48916456-b9ebb380-eec5-11e8-9992-2c0739dfadb2.png” width=“400”>
