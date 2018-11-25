@@ -17,7 +17,7 @@ $ source ENV/bin/activate
 ```
 성공적으로 activate 되었다면 아래처럼 (ENV)로 활성화된 것을 확인할 수 있습니다.
 
-![activate](https://postfiles.pstatic.net/MjAxODExMjFfMjU2/MDAxNTQyNzgzODY0MTMz.FHBEpzFhlJqpxu9Y6YJH1GBA6jMHB8hpmYG45GFG6q0g.tPNGmNb1uRiWRlEuVknOStRSqxU1FMpzgzTuE3gEvoMg.PNG.evanecen/image_1911722901542783810730.png?type=w773)
+![](https://user-images.githubusercontent.com/38330816/48984203-3687c780-f13c-11e8-8ec1-0fa06b942b56.png)
 
 \
 가상환경이 activate된 상태에서 flask를 install합니다.
@@ -29,7 +29,7 @@ shell script로 되어있는 develop, production 환경별 파일을 실행하�
 ```bash
 $ sh run_dev
 ```
-![](https://postfiles.pstatic.net/MjAxODExMjJfNTYg/MDAxNTQyODY0OTcwNzI5.8Td78IOVQxtdYLaNJJoicYHjCMwB7wFrrLVWgSjomuIg.Qeg7lTvKKwP63qW2YOj-E-EHsnQl0DbIZ-8-ioYov2Eg.PNG.evanecen/image_8436093021542864930128.png?type=w773)
+![](https://user-images.githubusercontent.com/38330816/48984204-38ea2180-f13c-11e8-843c-f3bf7941a661.png)
 
 
 
