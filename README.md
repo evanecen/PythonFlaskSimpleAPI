@@ -33,7 +33,7 @@ $ sh run_dev
 
 
 
-### Add API
+## Add API
 data폴더에 필요한 api이름의 json파일을 넣으면 같은 이름으로 접근할 수 있습니다.
 
 <img src="https://user-images.githubusercontent.com/38330816/48916456-b9ebb380-eec5-11e8-9992-2c0739dfadb2.png" width="400">
